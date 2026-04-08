@@ -36,16 +36,28 @@
 
   <!-- Blog Articles -->
   <url>
-    <loc>https://taperwing.com/medical-publication-support-oncologists-uae.html</loc>
-    <priority>0.6</priority>
+    <loc>https://taperwing.com/blog/medical-publication-support-oncologists-uae.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://taperwing.com/cardiology-research-publication-services-dubai-uae.html</loc>
-    <priority>0.6</priority>
+    <loc>https://taperwing.com/blog/cardiology-research-publication-services-dubai-uae.html</loc>
+    <lastmod>2026-04-03</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://taperwing.com/neurology-research-manuscript-writing-publication-support-uae.html</loc>
-    <lastmod>2026-04-02</lastmod>
-    <priority>0.80</priority>
+    <loc>https://taperwing.com/blog/neurology-research-manuscript-writing-publication-support-uae.html</loc>
+    <lastmod>2026-04-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taperwing.com/blog/nephrology-research-publication-manuscript-writing-uae.html</loc>
+    <lastmod>2026-04-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taperwing.com/blog/endocrinology-research-publishing-services-dubai-uae.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <priority>0.7</priority>
   </url>
 </urlset>
